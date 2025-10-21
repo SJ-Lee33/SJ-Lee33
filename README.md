@@ -3,6 +3,16 @@
   <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Sojin%20Lee&strokeWidth=2&section=footer&reversal=true&fontAlign=50&stroke=E0E0E0&fontSize=55&textBg=false" />
 </div>
 
+<!--포트폴리오-->
+<h2 align="center">Link To Portfolio → </h2>
+
+<a align="center" target="_blank" href="https://portfolio-sojinlee.vercel.app/">
+  <div align="center">
+    <img width="6390" height="2463" alt="포트폴리오-로고-3" src="https://github.com/user-attachments/assets/89ef4da2-2d64-4e30-9fa5-4562435f8935" />
+  </div>
+</a>
+
+
 <!--내용 부분-->
 <h2 align="center">✨ <em>Hands-On</em> Tech Stack ✨</h2>
 
